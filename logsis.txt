@@ -1,0 +1,28 @@
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:03:23
+Arquivo .INI Lido - Data:20/02/2021 - Hora:17:03:24
+Banco de dados acessado - Data:20/02/2021 - Hora:17:03:24
+Dados gravados no banco de dados - Data:20/02/2021 - Hora:17:03:26
+Dados Gravados  - Data:20/02/2021 - Hora:17:03:26
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:03:58
+Arquivo .INI Lido - Data:20/02/2021 - Hora:17:03:59
+Banco de dados acessado - Data:20/02/2021 - Hora:17:03:59
+Erro [Microsoft][ODBC SQL Server Driver][SQL Server]Violação da restrição PRIMARY KEY 'PK__Informac__C1FE6AA9B28BB5B9'. Não é possível inserir a chave duplicada no objeto 'dbo.InformacaoPais'. O valor de chave duplicada é (1). - Data:20/02/2021 - Hora:17:03:59
+Dados Gravados  - Data:20/02/2021 - Hora:17:04:04
+Erro This key is already associated with an element of this collection - Data:20/02/2021 - Hora:17:05:35
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:05:41
+Erro This key is already associated with an element of this collection - Data:20/02/2021 - Hora:17:05:42
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:05:59
+Arquivo .INI Lido - Data:20/02/2021 - Hora:17:06:01
+Banco de dados acessado - Data:20/02/2021 - Hora:17:06:01
+Dados gravados no banco de dados - Data:20/02/2021 - Hora:17:06:02
+Dados Gravados  - Data:20/02/2021 - Hora:17:06:02
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:06:49
+Arquivo .INI Lido - Data:20/02/2021 - Hora:17:06:50
+Banco de dados acessado - Data:20/02/2021 - Hora:17:06:50
+Dados gravados no banco de dados - Data:20/02/2021 - Hora:17:06:52
+Dados Gravados  - Data:20/02/2021 - Hora:17:06:52
+Xml Lido com sucesso! - Data:20/02/2021 - Hora:17:07:32
+Arquivo .INI Lido - Data:20/02/2021 - Hora:17:07:32
+Banco de dados acessado - Data:20/02/2021 - Hora:17:07:32
+Dados gravados no banco de dados - Data:20/02/2021 - Hora:17:07:34
+Dados Gravados  - Data:20/02/2021 - Hora:17:07:34
